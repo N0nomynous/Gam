@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-This is the greenfoot game project created by Asim Nawaiz, Ismaeel Omar and Noman Syed. The project created by them is a g+game created in the programming language java. It is called "Space Warriors" and is a solo-player, sci-fi, shooting, indie game where the player is playing as a hero spaceship and can destroy enemy battleships to collect points in order to raise the score and need to dodge the hazardous projectiles of the enemy battleships in order to survive.
+This is the greenfoot game project created by Asim Nawaiz, Ismaeel Omar and Noman Syed. The project created by them is a game created in the programming language java. It is called "Space Warriors" and is a solo-player, sci-fi, shooting, indie game where the player is playing as a hero spaceship and can destroy enemy battleships to collect points in order to raise the score and need to dodge the hazardous projectiles of the enemy battleships in order to survive.
 This game was made with the thought of raising nostalgic in some minds as well as create some very fun experience.
 ------------------------------------------------------------------------
 
