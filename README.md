@@ -5,7 +5,7 @@ This game was made with the thought of raising nostalgic in some minds as well a
 
 PROJECT TITLE: Space Warriors
 PURPOSE OF PROJECT: Project set as a Task
-VERSION or DATE: latest edit made on 12/01/2024, Version 5
+VERSION or DATE: latest edit made on 12/01/2024, Version 6
 HOW TO START THIS PROJECT: This project/game can be started by opening up the software "Greenfoot" first. After that, select open project and select the downloaded content/greenfoot file of this project which can be found among the files in the code section.
 AUTHORS: Asim Nawaiz, Ismaeel Omar, Noman Syed
 USER INSTRUCTIONS: HOW TO PLAY!: 
